@@ -23,3 +23,9 @@ garbage collection
 memory management
 libararies in dotnetcore
 environment variable(.netcore)
+
+learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?
+what is microservices?
+latest c# -> version 11.->more info?
+how do i know if a project is build with .net framework or .net core?
+create an MVC app with UI and bind it to DB.
