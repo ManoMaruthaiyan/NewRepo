@@ -1,1 +1,25 @@
-test this
+check for windows configuration
+OS
+hardware used
+rs specification
+eship service\service
+.net framework version
+.net core usage in neto
+ASP.net
+MVC
+ASP.NETCORE
+REST call
+SOAP call
+
+check filewatcher and utility and can add those too.
+DEV OPS
+
+design patterns
+polymorphism
+inheritance
+encapsulation
+dependency injection
+garbage collection
+memory management
+libararies in dotnetcore
+environment variable(.netcore)
