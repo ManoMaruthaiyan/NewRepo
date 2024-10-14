@@ -1,4 +1,4 @@
-check for windows configuration
+# check for windows configuration
 OS
 hardware used
 rs specification
